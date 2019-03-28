@@ -27,7 +27,7 @@ All of the major points for the data and description can be found out here.
 * Above Ground Living Area seemed to have the most impact.
 * Overall Quality also had an impact.
 * Year Built had an impact.
-* Runner up Overall Condition with an impact of 11¢ per rating number.
+* Runner up Overall Condition.
 
  
     

@@ -1,7 +1,7 @@
 # Ames Iowa Data
 We will be looking at 2 different CSV files of features from housing reports in a csv file. This data is collected from Ames, Iowa and was got from Kaggle.
-* [Training Data](./datasets/p2_data/train.csv)
-* [Testing Data](./datasets/p2_data/test.csv)
+* Training Data
+* Testing Data
 
 ## Statement
 Which features affect sale price the most? And which features do not affect it at all?
@@ -24,9 +24,9 @@ All of the major points for the data and description can be found out here.
 
 ## In Conclusion
 * It seems there are a lot of different features that will affect the sale price of a house in Ames, Iowa. However, lot frontage had no impact.
-* Above Ground Living Area seemed to have the most impact with only 29¢ per square foot.
-* Overall Quality had an impact of 21¢ per rating number.
-* Year Built had an impact of 14¢.
+* Above Ground Living Area seemed to have the most impact.
+* Overall Quality also had an impact.
+* Year Built had an impact.
 * Runner up Overall Condition with an impact of 11¢ per rating number.
 
  

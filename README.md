@@ -24,10 +24,6 @@ All of the major points for the data and description can be found out here.
 
 ## In Conclusion
 * It seems there are a lot of different features that will affect the sale price of a house in Ames, Iowa. However, lot frontage had no impact.
-* Above Ground Living Area seemed to have the most impact with only 29¢ per square foot.
-* Overall Quality had an impact of 21¢ per rating number.
-* Year Built had an impact of 14¢.
-* Runner up Overall Condition with an impact of 11¢ per rating number.
 
  
     
